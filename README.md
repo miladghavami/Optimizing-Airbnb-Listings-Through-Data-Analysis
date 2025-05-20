@@ -74,8 +74,6 @@ presence of these keywords, which might influence guest satisfaction.
 2 - Keyword Context: The approach counts keyword occurrences without considering the context. For example, the word “clean” may appear in both positive and negative scenarios (e.g., not clean). More advanced techniques, like NLP, could be used to address this. 
 3 - Review Availability: The availability of few or no reviews may not provide meaningful data for analysis, which can lead to incomplete insights for listings. 
 
-# Contributors
-* Milad Ghavami
 
 # License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute as needed.
