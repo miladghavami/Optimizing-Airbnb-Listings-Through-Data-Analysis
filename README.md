@@ -76,9 +76,6 @@ presence of these keywords, which might influence guest satisfaction.
 
 # Contributors
 * Milad Ghavami
-* Pravinkumar Yadav
-* Reena Sajad Hyder
-* Venkateshprasad Pradeeprao Kulkarni
 
 # License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute as needed.
